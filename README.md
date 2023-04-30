@@ -20,20 +20,29 @@ Installation
 To run this application locally, follow these steps:
 
 Clone the repository: git clone https://github.com/SumukhaKavya/React-App.git
+
 Install dependencies: npm install
+
 Add your API client key to the .env file: REACT_APP_UNSPLASH_ACCESS_KEY=your-access-key
+
 Start the development server: npm start
 
-Technologies Used:
 This application was built using the following technologies:
-React
-Unsplash API
-Axios
-React Router
-React Context API
-React Hooks
-HTML
-CSS
+1. React
+
+2. Unsplash API
+
+3. Axios
+
+4. React Router
+
+5. React Context API
+
+6. React Hooks
+
+7. HTML
+
+8. CSS
 
 Conclusion:
 This application demonstrates how to build a simple front-end application using React and the Unsplash API. It is a good starting point for developers who want to learn how to integrate APIs into their applications.
