@@ -35,5 +35,5 @@ React Hooks
 HTML
 CSS
 
-Conclusion
+Conclusion:
 This application demonstrates how to build a simple front-end application using React and the Unsplash API. It is a good starting point for developers who want to learn how to integrate APIs into their applications.
